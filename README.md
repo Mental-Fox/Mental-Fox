@@ -20,3 +20,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=graduation_project_2021&theme=dracula)](https://github.com/Mental-Fox/graduation_project_2021)
+
+<details open><summary>Compact display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
