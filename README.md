@@ -21,4 +21,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=graduation_project_2021&theme=dracula)](https://github.com/Mental-Fox/graduation_project_2021)
 
-<details open><summary>Compact display</summary><img src="https://github.com/Mental-Fox" alt=""></img></details>
