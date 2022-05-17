@@ -1,5 +1,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-### Hi there 👋, my name is Nikolai_N <img src="https://raw.githubusercontent.com/krlktv/krlktv/main/img/Hi.gif" width="25px"> 
+
+# Hi there 👋, my name is Nikolai_N <img src="https://raw.githubusercontent.com/krlktv/krlktv/main/img/Hi.gif" width="25px"> 
 
 ## I'm a Developer 📍 Kazakhstan (Almaty)
 
