@@ -4,6 +4,8 @@
 
 ## I'm a Developer 📍 Kazakhstan (Almaty)
 
+![Visitor Count](https://profile-counter.glitch.me/Mental-Fox/count.svg)
+
 ---
 
 ### 💻 Tech Stack and Tools:
