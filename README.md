@@ -24,5 +24,5 @@
 
 ### ⚙️ GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio&theme=dracula)](https://github.com/Mental-Fox/graduation_project_2021)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio&theme=dracula)](https://github.com/Mental-Fox/3D-Portfolio)
 
