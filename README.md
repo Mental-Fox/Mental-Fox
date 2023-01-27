@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
 ### ⚙️ GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mental-Fox&show_icons=true&theme=transparent)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio&theme=dracula)](https://github.com/Mental-Fox/3D-Portfolio)
 
