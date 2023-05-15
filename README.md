@@ -1,12 +1,12 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <h1 align="center">Hi there 👋, my name is Nikolai_N </h1> 
-<h3 align="center">I'm a Developer 📍 Kazakhstan (Almaty) </h3>
+<h2 align="center">I'm a Developer 📍 Kazakhstan (Almaty) </h2>
 
- <p align="center">
+ <h3 align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Mental-Fox/count.svg" />
-</p>
+</h3>
 
 ---
 
