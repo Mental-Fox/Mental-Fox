@@ -12,17 +12,15 @@
 
 ---
 
-### 💻 Tech Stack and Tools:
+<h2 align="center">Skills </h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,c,cs,cpp,js,css,html" />
+  </a>
+</p>
 
-### ⚙️ GitHub Analytics
+<h2 align="center">GitHub Analytics </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio&theme=dark)](https://github.com/Mental-Fox/3D-Portfolio)
