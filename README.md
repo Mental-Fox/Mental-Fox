@@ -24,9 +24,8 @@
 
 
 <p align="center">
- <a href="https://github.com/Mental-Fox/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mental-Fox" />
-</a>
+
+  <img align="center" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Mental-Fox&show_icons=true&theme=radical" />
    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
      <img align="center" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=compact&theme=blue-green&hide_border=true&border_radius=30&show_icons=true" />
    </a>
