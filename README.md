@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">Skills </h2>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=solarized_dark)
 
 <p align="center">
   <a href="https://skillicons.dev">
