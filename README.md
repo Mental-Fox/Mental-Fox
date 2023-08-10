@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">Skills </h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills)](https://git.io/typing-svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
 <p align="center">
   <a href="https://skillicons.dev">
