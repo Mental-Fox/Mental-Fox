@@ -33,6 +33,7 @@
    <a href="https://git.io/streak-stats" target="_blank">
      <img align="center" height="50%" width="auto" src="https://streak-stats.demolab.com?user=Mental-Fox&theme=github-dark&hide_border=true&border_radius=50&card_width=850" />
    </a>
- 
+
+ <a href="https://profile.codersrank.io/user/Mental-Fox">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mental-Fox)</a>
 
 </p>
