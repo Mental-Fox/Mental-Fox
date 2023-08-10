@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">Skills </h2>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,6 +21,6 @@
 
 <h2 align="center">GitHub Analytics </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio&theme=dark)](https://github.com/Mental-Fox/3D-Portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio&theme=dark)](https://github.com/Mental-Fox/3D-Portfolio)
 
