@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/0-profile-details?username=Mental-Fox&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <h1 align="center">Hi there 👋, my name is Nikolai_N </h1> 
