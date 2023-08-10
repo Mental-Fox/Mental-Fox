@@ -26,6 +26,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio)](https://github.com/Mental-Fox/3D-Portfolio)
 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=compact" />
+</a>
