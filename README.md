@@ -21,8 +21,10 @@
 </p>
 
 <h2 align="center">GitHub Analytics </h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mental-Fox&theme=dark&hide_border=true&border_radius=50&locale=ru&card_width=850)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mental-Fox&theme=dark&hide_border=true&border_radius=50&locale=ru&card_width=850)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mental-Fox&repo=3D-Portfolio&theme=dark)](https://github.com/Mental-Fox/3D-Portfolio)
 
