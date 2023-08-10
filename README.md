@@ -12,7 +12,6 @@
 
 <h2 align="center">Skills </h2>
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,vscode,php,js,css,html,bootstrap,vercel" />
@@ -21,15 +20,8 @@
 
 <h2 align="center">GitHub Analytics </h2>
 
-
-
 <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-     <img align="center" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=donut&theme=blue-green&hide_border=true&border_radius=30&show_icons=true" />
-   </a>
- 
    <img align="center" height="50%" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark&border_radius=50" />
-
    <a href="https://git.io/streak-stats" target="_blank">
      <img align="center" height="50%" width="auto" src="https://streak-stats.demolab.com?user=Mental-Fox&theme=github-dark&hide_border=true&border_radius=50&card_width=850" />
    </a>
