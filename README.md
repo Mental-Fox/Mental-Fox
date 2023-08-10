@@ -12,6 +12,7 @@
 
 <h2 align="center">Skills </h2>
 [![Readme](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=tokyonight)]
+[![](https://raw.githubusercontent.com/Mental-Fox/Mental-Fox/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/Mental-Fox/github-profile-summary-cards)
 
 <p align="center">
   <a href="https://skillicons.dev">
