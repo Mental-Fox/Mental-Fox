@@ -11,6 +11,7 @@
 ---
 
 <h2 align="center">Skills </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
