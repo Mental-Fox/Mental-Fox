@@ -25,9 +25,9 @@
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-     <img align="center" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=compact&theme=dark#gh-dark-mode-only" />
+     <img align="center" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=compact&theme=dark#gh-dark-mode-only&hide_border=false&border_radius=50" />
    </a>
-   <img align="center" height="50%" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark" />
+   <img align="center" height="50%" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark&border_radius=50" />
 
 
    <a href="https://git.io/streak-stats" target="_blank">
