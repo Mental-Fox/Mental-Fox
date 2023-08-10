@@ -28,11 +28,12 @@
 
    <img align="center" height="50%" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark" />
 
+   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+     <img align="center" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=compact&theme=github-dark" />
+   </a>
    <a href="https://git.io/streak-stats" target="_blank">
      <img align="center" height="50%" width="auto" src="https://streak-stats.demolab.com?user=Mental-Fox&theme=github-dark&hide_border=true&border_radius=50&card_width=850" />
    </a>
  
-   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-     <img align="center" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental-Fox&layout=compact&theme=github-dark" />
-   </a>
+
 </p>
