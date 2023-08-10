@@ -1,6 +1,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikolay.Nedelko&theme=dark&hide_border=true&border_radius=50&locale=ru&card_width=600)](https://git.io/streak-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <h1 align="center">Hi there 👋, my name is Nikolai_N </h1> 
 <h2 align="center">I'm a Developer 📍 Kazakhstan (Almaty) </h2>
 
