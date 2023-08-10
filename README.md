@@ -21,7 +21,7 @@
 </p>
 
 <h2 align="center">GitHub Analytics </h2>
-![GitHub Streak](https://streak-stats.demolab.com?user=Mental-Fox&theme=dark&hide_border=true&border_radius=50&locale=ru&card_width=850)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikolay.Nedelko&theme=dark&hide_border=true&border_radius=50&card_width=1000)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark)
 
