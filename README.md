@@ -1,6 +1,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark)
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mental-Fox&theme=dark&hide_border=true&border_radius=50&locale=ru&card_width=750)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mental-Fox&theme=dark&hide_border=true&border_radius=50&locale=ru&card_width=550)](https://git.io/streak-stats)
 <br />
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <br />
