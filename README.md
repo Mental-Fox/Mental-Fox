@@ -21,7 +21,7 @@
 <h2 align="center">GitHub Analytics </h2>
 
 <p align="center">
-   [<img align="center" height="50%" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark&border_radius=50" />](https://github-readme-activity-graph.vercel.app)
+   <img align="center" height="50%" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mental-Fox&theme=github_dark&border_radius=50" />
    <a href="https://git.io/streak-stats" target="_blank">
      <img align="center" height="50%" width="auto" src="https://streak-stats.demolab.com?user=Mental-Fox&theme=github-dark&hide_border=true&border_radius=50&card_width=850" />
    </a>
