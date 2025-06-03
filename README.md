@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mental-Fox.Mental-Fox">
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=2000&size=25&pause=500&color=00B4F7&width=1000&height=80&lines=Hello%2CThere!++;My+name+is+Nikolay....+I+work+as+a+Development-Engineer+in+Kazakhstan.;Nice+to+meet+you!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=2000&size=25&pause=500&color=00B4F7&center=true&width=1000&height=80&lines=Hello%2CThere!++;My+name+is+Nikolay....+I+work+as+a+Development-Engineer+in+Kazakhstan.;Nice+to+meet+you!" alt="Typing SVG" />
+ </a>
 </h1>
 
 <!-- <h3 align="center">Visitor count<br><img src="https://profile-counter.glitch.me/Mental-Fox/count.svg" /></h3> -->
